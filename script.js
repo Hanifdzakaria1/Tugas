@@ -11,4 +11,4 @@ for (let i=0; i< jam.length; i++) {
 }
 
 console.log('total jam yang lebih :'+ totjamlebih ,'jam')
-console.log('total hari yang kurang  :'+ totjamkurang ,'hari')
+console.log('total hari yang lebih  :'+ totjamkurang ,'hari')
